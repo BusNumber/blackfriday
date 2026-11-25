@@ -1,0 +1,18 @@
+{
+  "name": "MDash — Markdown to PDF",
+  "url": "https://apps.apple.com/app/apple-store/id6792581826?pt=129192922&ct=bf26-omw&mt=8",
+  "description": "Turn Markdown into a clean, print-ready PDF with sensible page breaks, clickable links and a table of contents, or export to Word",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off the One-Time Unlock, no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 39.99,
+    "sale": 19.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-07",
+  "icon": "https://usemdash.com/assets/mdash-app-icon.png"
+}
