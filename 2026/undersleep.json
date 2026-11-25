@@ -1,0 +1,20 @@
+{
+  "name": "Undersleep",
+  "url": "https://apps.apple.com/app/apple-store/id6803688584?pt=129192922&ct=bf26-omw&mt=8",
+  "description": "One number for your sleep on iPhone and Apple Watch: how many hours behind your goal you are over the last two weeks, with no account and no cloud",
+  "category": "lifestyle",
+  "platforms": [
+    "ios",
+    "watch"
+  ],
+  "deal": "50% off the one-time unlock, no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 24.99,
+    "sale": 12.49,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-07"
+}
